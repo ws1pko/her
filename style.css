@@ -1,0 +1,326 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+}
+
+.conta {
+    height: auto;
+    background-color: #ffffff;
+    padding: 0px;
+    width: 1920px; /* Установите ширину контейнера */
+}
+
+.super {
+    margin-left: 45px;
+    width: 260px;
+    height: 52px;
+    padding-top: 30.57px;
+}
+
+.txt {
+    margin-left: 516px;
+    display: flex;
+    gap: 107px;
+    align-items: self-end;
+    justify-content: end;
+    margin-top: 0px;
+    padding-right: 340px;
+    color: #00402F;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.txt a {
+    text-decoration: none;
+    color: #00402F;
+}
+
+.sign body {
+    font-family: Roboto;
+    font-size: 18.67px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: center;
+}
+
+.sign {
+    width: 288px;
+    height: 113.33px;
+    margin-top: 0;
+    display: flex;
+    background-color: #00402F;
+    margin-right: 38.07px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1630px;
+    margin-top: -69px;
+}
+
+.sign a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.oper {
+    width: 728px;
+    height: 929px;
+    padding-left: 420px;
+    padding-right: 770px;
+    padding-top: 100px;
+    padding-bottom:93px;
+    background-color: #668C82;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.oper img {
+    width: 728px;
+    height: 729px;
+}
+
+.Greatness {
+    padding-left: 1090px;
+    margin-top: -805px;
+    font-family: Roboto;
+    font-size: 81.33px;
+    font-weight: 400;
+    line-height: 70.67px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.Ggs{
+    font-family: Roboto;
+    font-size: 18.67px;
+    font-weight: 400;
+    line-height: 26.67px;
+    text-align: left;
+    color: #FFFFFF;
+    padding-left: 1090px;
+    margin-top: 40.67px;
+}
+.Oneon{
+    font-family: Roboto;
+font-size: 18.67px;
+font-weight: 400;
+line-height: 44px;
+text-align: left;
+color: #FFFFFF;
+padding-left: 1123px;
+margin-top: 24.67px;
+}
+.access{
+    font-family: Roboto;
+font-size: 18.67px;
+font-weight: 400;
+line-height: 44px;
+text-align: left;
+color: #FFFFFF;
+padding-left: 1123px;
+margin-top: 20px;
+}
+.ask{
+font-family: Roboto;
+font-size: 18.67px;
+font-weight: 400;
+line-height: 44px;
+text-align: left;
+padding-left: 1123px;
+margin-top: 20px;
+color: #FFFFFF;
+}
+.disk{
+    font-family: Roboto;
+    font-size: 18.67px;
+    font-weight: 400;
+    line-height: 44px;
+    text-align: left;
+    padding-left: 1123px;
+    margin-top: 20px;
+    color: #FFFFFF;
+}
+
+.knop {
+    width: 205.33px;
+    height: 28px;
+    border-radius: 66.67px;
+    background-color: #FFFFFF;
+    display: inline-block;
+
+    margin-left: 1090px;
+    margin-top: 43px;
+}
+ 
+
+
+.ELE {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 28.8px;
+    letter-spacing: 3.3333334922790527px;
+    text-align: center;
+    color: #00402F;
+    text-decoration: none; 
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.chorn{
+margin-top: 93px;
+position: relative;
+background-color: #849ACB;
+padding-left: 550px;
+margin-right: 2px;
+margin-bottom: 93px;
+}
+
+.chorn img{
+
+width: 689;
+height: 689;
+
+}
+ .mission{
+    font-family: Roboto;
+    font-size: 14.67px;
+    font-weight: 400;
+    line-height: 17.33px;
+    letter-spacing: 5.733333587646484px;
+    text-align: left;
+color:  #FFFFFF91;
+
+position: relative;
+top: -740px;
+margin-left: 193px;
+margin-right: 1022px;
+ }
+
+ .our{
+    font-family: Roboto;
+    font-size: 45.33px;
+    font-weight: 400;
+    line-height: 68px;
+    letter-spacing: 0.40000003576278687px;
+    text-align: left;
+    margin-left: 193px;
+    position: relative;
+    margin-top: -700px;
+    color: #FFFFFF;
+ }
+
+ .kop{
+    width: 220px;
+    height: 26.67px;
+    border-radius: 66.67px ;
+    border: 2.67px solid transparent;
+border-color: #FFFFFF;
+    background: none;
+    position: relative;
+   margin-left: 193px;
+   margin-top: 54px;
+ }
+ 
+ .get{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 700;
+line-height: 26.67px;
+letter-spacing: 3.3333334922790527px;
+text-align: center;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+padding-left: 34px;
+ }
+
+ .beskr {
+    margin-left: 1649px; 
+    margin-right: 40px;
+    margin-top: -290px; 
+    position: relative;
+   
+}
+
+.rec {
+ 
+    margin-top: 126px;
+    background-color: #FFF4E3;
+    display: flex;
+    padding-left: 90px;
+    padding-right: 680px;
+margin-right: 2px;
+padding-bottom: 46px;
+}
+
+.rec img {
+    width: 580;
+    height: 622px;
+}
+.yomind{
+    font-family: Roboto;
+    font-size: 66.67px;
+    font-weight: 400;
+    line-height: 73.33px;
+    text-align: left;
+    
+    width: 806.67px;
+    height: 220px;
+    top: 54.44px;
+    left: 13.4px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+margin-left: 884px;
+top: -675px;
+color: #00402F;
+}
+
+.yo{
+    font-family: Roboto;
+font-size: 21.33px;
+font-weight: 400;
+line-height: 29.87px;
+text-align: left;
+width: 820px;
+height: 180px;
+top: 313.1px;
+left: 13.4px;
+gap: 0px;
+opacity: 0px;
+position: relative;
+top: -675px;
+margin-left: 884px;
+margin-top: 38px;
+color: #00402F;
+}
+
+.knopka {
+    width: 381.33px;
+    height: 33.33px;
+    border-radius: 66.67px;
+    position: relative;
+    color: #00402F;
+    background-color: #FFF4E3;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+ 
+ .join{
+    font-family: Roboto;
+font-size: 18.67px;
+font-weight: 700;
+line-height: 33.33px;
+letter-spacing: 3.3333334922790527px;
+text-align: center;
+    text-decoration: none;
+ }
